@@ -18,6 +18,12 @@ When adding a new project to the listing, please copy and paste the template bel
 
 ## Projects
 
+### BrainViz
+**Project url(s)**: https://github.com/matanmazor/BrainViz\
+**Contributors**: [Anna Jafarpour](https://github.com/annaja), [Matan Mazor] (https://github.com/matanmazor), [Liberty Hamilton](https://github.com/libertyh), \
+**Description of project**: With BrainViz we can visualize neural activity in selected ECOG contacts.\
+**How to get involved**: Please get in touch with one of the contributors.
+
 ### Neurohackmap
 
 **Project url(s)**: https://github.com/g14r/neurohackmap \
