@@ -70,3 +70,9 @@ When adding a new project to the listing, please copy and paste the template bel
 **Contributors** (in alphabetical order of last names): [Katie Bottenhorn](https://github.com/62442katieb), [Bharath Chandra Talluri](https://github.com/BharathTalluri), [Julio A Yanes](https://github.com/Julio-A-Yanes)\
 **Description of project**: Use activation maps of four different tasks from various studies obtained through [Brainmap](http://brainmap.org/), and [Neurosynth](http://neurosynth.org/) and train a classifier to predict the task from an activation map.\
 **How to get involved**: We look forward to scaling this project to different tasks, and ideally towards more general applications.
+
+### Deep-Source
+**Project url(s)**: [github repo](https://github.com/martinagvilas/deep-source)\
+**Contributors** (in alphabetical order of last names): [Azeez Adebimpe](https://github.com/a3sha2), [Ryan Timms](https://github.com/RCTimms), [Martina G. Vilas](https://github.com/martinagvilas)\
+**Description of project**: We will simulate MEG source data with deep sources activations (e.g. hippocampal activity) to estimate which source reconstruction method is more efficient in these cases. For a detailed overview of our project, see our [project-outline](https://github.com/martinagvilas/deep-source/blob/master/project_outline.ipynb).\
+**How to get involved**: You can find the next steps of our project in our [README](https://github.com/martinagvilas/deep-source). You can also scroll around our [jupyter-notebooks](https://github.com/martinagvilas/deep-source/tree/master/notebooks) and add/change anything in them by submitting a pull request.
