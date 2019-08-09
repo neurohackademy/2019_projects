@@ -98,14 +98,14 @@ When adding a new project to the listing, please copy and paste the template bel
 
 
 ### Psychiatric Phenotyping
-**Project url(s)**: [gitHub repo](https://github.com/GersonGuercio/hcp_psychiatric_phenotyping)\
-**Contributors**: [Carol Jew](https://github.com/caroljew), [Gerson Guercio](https://github.com/GersonGuercio), [Lindsay Oliver] (), [Sarah Lichenstein](https://github.com/sarlich), [Teddy Turesky](https://github.com/tkt3)\
+**Project url(s)**: [gitHub repo](https://github.com/GersonGuercio/hcp_psychiatric_phenotyping) \
+**Contributors**: [Carol Jew](https://github.com/caroljew), [Gerson Guercio](https://github.com/GersonGuercio), [Lindsay Oliver] (), [Sarah Lichenstein](https://github.com/sarlich), [Teddy Turesky](https://github.com/tkt3) \
 **Description of project**: We are attempting to predict substance use using behavioral metrics from the HCP data with machine learning models. Many measures relate to substance use, but there’s little data available to guide the development of test batteries. The goal is to minimize patient burden without sacrificing predictive accuracy.\
 **How to get involved**: Feel free to get in touch with one of the contributors or send us pull requests.
 
 ### TMS-DTI bridge
-**Project url(s)**: https://github.com/KulikovaSofya/BrainStim\
+**Project url(s)**: https://github.com/KulikovaSofya/BrainStim \
 **Contributors**: [Sofya Kulikova](https://github.com/KulikovaSofya), Daniel Bullock \
-**Description of project**: With this python script you can estimate effects of TMS for a particular white matter fiber reconstructed from diffusion MRI data. Input data: T1-w image, FA map, reconstructed fibers in trk .format, estimated e-field in a mesh format. Output: estsimated stimulations effects at each point of the provided fibers\
+**Description of project**: With this python script you can estimate effects of TMS for a particular white matter fiber reconstructed from diffusion MRI data. Input data: T1-w image, FA map, reconstructed fibers in trk .format, estimated e-field in a mesh format. Output: estsimated stimulations effects at each point of the provided fibers \
 **How to get involved**: There is a number of points that should be improve including 1) building a Docker container for this project; 2) improving registration between TMS and diffusion MRI; 3) Adding a function that would run e-field calculations within a program (to calculate e-field in place and not to take it as an input); 4) making things work faster (yes, it's very slow now); 5) still problems with visualization. Please, feel free to contact if you would like to contribute to this project.
 
