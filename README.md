@@ -77,3 +77,16 @@ When adding a new project to the listing, please copy and paste the template bel
 **Contributors**: Daniel Bullock, Johnathan Avery\
 **Description of project**: TractFunc is an initial attempt to probe the (potential) functional roles of white matter tracts.  Repo also includes code for text corpus parsing specific to white-matter anatomy literature\
 **How to get involved**: Join in the project?
+
+### Deep-Source
+**Project url(s)**: [github repo](https://github.com/martinagvilas/deep-source)\
+**Contributors** (in alphabetical order of last names): [Azeez Adebimpe](https://github.com/a3sha2), [Ryan Timms](https://github.com/RCTimms), [Martina G. Vilas](https://github.com/martinagvilas)\
+**Description of project**: We will simulate MEG source data with deep sources activations (e.g. hippocampal activity) to estimate which source reconstruction method is more efficient in these cases. For a detailed overview of our project, see our [project-outline](https://github.com/martinagvilas/deep-source/blob/master/project_outline.ipynb).\
+**How to get involved**: You can find the next steps of our project in our [README](https://github.com/martinagvilas/deep-source). You can also scroll around our [jupyter-notebooks](https://github.com/martinagvilas/deep-source/tree/master/notebooks) and add/change anything in them by submitting a pull request.
+
+
+### PyCortexEdu
+**Project url(s)**: [PyCortexEdu GitHub repo](https://github.com/PaulScotti/PyCortexEdu)\
+**Contributors**: [list of people involved], [Paul Scotti](https://github.com/PaulScotti), [Arman Kulkarni](https://github.com/kiacan), [Matan Mazor](https://github.com/matanmazor), [Eduard Klapwijk](https://github.com/eduardklap), [Alex Huth](https://github.com/alexhuth)\
+**Description of project**: In-browser 3D brain visualization of different brain atlases, parcellations and associated terms and variance components of the neuroimaging literature from [Neurosynth](http://neurosynth.org). This can be used as educational resource and potentially for researchers to evaluate functional and structural probabilities of selected brain regions. The [PyCortex](https://github.com/gallantlab/pycortex) software library is used for visualisation.\
+**How to get involved**: Click around that brain and send us some pull requests!
