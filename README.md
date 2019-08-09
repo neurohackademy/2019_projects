@@ -95,3 +95,10 @@ When adding a new project to the listing, please copy and paste the template bel
 **Contributors**: [Paul Scotti](https://github.com/PaulScotti), [Arman Kulkarni](https://github.com/kiacan), [Matan Mazor](https://github.com/matanmazor), [Eduard Klapwijk](https://github.com/eduardklap), [Alex Huth](https://github.com/alexhuth)\
 **Description of project**: In-browser 3D brain visualization of different brain atlases, parcellations and associated terms and variance components of the neuroimaging literature from [Neurosynth](http://neurosynth.org). This can be used as educational resource and potentially for researchers to evaluate functional and structural probabilities of selected brain regions. The [PyCortex](https://github.com/gallantlab/pycortex) software library is used for visualisation.\
 **How to get involved**: Click around that brain and send us some pull requests!
+
+
+### Psychiatric Phenotyping
+**Project url(s)**: [gitHub repo](https://github.com/GersonGuercio/hcp_psychiatric_phenotyping)\
+**Contributors**: [Carol Jew](https://github.com/caroljew), [Gerson Guercio](https://github.com/GersonGuercio), [Lindsay Oliver] (), [Sarah Lichenstein](https://github.com/sarlich), [Teddy Turesky](https://github.com/tkt3)\
+**Description of project**: We are attempting to predict substance use using behavioral metrics from the HCP data with machine learning models. Many measures relate to substance use, but there’s little data available to guide the development of test batteries. The goal is to minimize patient burden without sacrificing predictive accuracy.\
+**How to get involved**: Feel free to get in touch with one of the contributors or send us pull requests.
