@@ -54,6 +54,16 @@ When adding a new project to the listing, please copy and paste the template bel
 **Goals**: 1) Access and download HCP Lifespan Pilot Data, 2) Run HCP preprocessing pipelines using a docker container on AWS, 3) Use neuropythy to retrieve and visualize age-related differences in structural properties like cortical thickness.\
 **How to get involved**: Suggestions for other types of structural analysis (gyrification, TI/T2 differences) and functional analysis (resting state, tasks) are welcome. We look forward to analyzing the HCP-D and HCP-A datasets in the near future!\
 
+### Pliers annotations (Neuroscout)
+**Project url(s)**: [natstim_neurohack](https://github.com/jacobtfisher/natstim_neurohack19)\
+**Contributors**: [Jacob Fischer](https://github.com/jacobtfisher),
+  [Mai Lin Nguyen](https://github.com/mlnguyen), [Marissa Clark](https://github.com/Marissa-Clark),
+  [Sam Nastase](https://github.com/snastase), [Adina Wagner](https://github.com/adswa)\
+**Description of project**: How accurate and variable are annotations provided by various tools
+  for automated feature extractions?
+  We try to use available interfaces in [pliers](https://github.com/tyarkoni/pliers) for face and speech annotation
+  on the movie Forrest Gump, and aim to evaluate their results accuracy and variance.\
+**How to get involved**: Find us in the common area!
 
 ### MetaDecoding
 **Project url(s)**: [github repo](https://github.com/Julio-A-Yanes/metaclass)\
