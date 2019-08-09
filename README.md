@@ -18,8 +18,9 @@ When adding a new project to the listing, please copy and paste the template bel
 ## Projects
 
 **Name**: Neurohackmap\
-**Project url(s)**: https://github.com/g14r/neurohackmap\
+**Project url(s)**: https://github.com/g14r/neurohackmap \
 **Contributors**: Antonija Kolobaric, Giacomo Ariani, Hannah Coyle, Johnny Lau, Daria Proklova\
 **Description of project**: Neurohackmap is a collection of scripts to visualize the change in NHA19 participants' world locations and research interests over time.\
-**How to get involved**: For any help in code optimization, and/or to add alternative data visualizations, pull requests are welcome. Please get in touch with one of the contributors if you would like to request full access to the dataset.\
+**How to get involved**: For any help in code optimization, and/or to add alternative data visualizations, pull requests are welcome. Please get in touch with one of the contributors if you would like to request full access to the dataset.
+
 
