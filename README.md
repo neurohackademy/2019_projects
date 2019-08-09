@@ -99,6 +99,6 @@ When adding a new project to the listing, please copy and paste the template bel
 
 ### Psychiatric Phenotyping
 **Project url(s)**: [gitHub repo](https://github.com/GersonGuercio/hcp_psychiatric_phenotyping)\
-**Contributors**: [Carol Jew](https://github.com/caroljew), [Gerson Guercio](https://github.com/GersonGuercio), [Lindsay Oliver] (), [Sarah Lichenstein](https://github.com/sarlich), [Teddy Turesky](https://github.com/tkt3)\
+**Contributors**: [Carol Jew](https://github.com/caroljew), [Gerson Guercio](https://github.com/GersonGuercio), [Lindsay Oliver](https://github.com/loliver4), [Sarah Lichenstein](https://github.com/sarlich), [Teddy Turesky](https://github.com/tkt3)\
 **Description of project**: We are attempting to predict substance use using behavioral metrics from the HCP data with machine learning models. Many measures relate to substance use, but there’s little data available to guide the development of test batteries. The goal is to minimize patient burden without sacrificing predictive accuracy.\
 **How to get involved**: Feel free to get in touch with one of the contributors or send us pull requests.
