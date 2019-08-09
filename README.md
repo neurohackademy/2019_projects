@@ -38,5 +38,5 @@ When adding a new project to the listing, please copy and paste the template bel
 **Contributors**: [Hao-Ting Wang (HCP, visualisation, GIFTI)](https://github.com/htwangtw), 
 [Gia H Ngo (HCP, visualisation)](https://github.com/ngohgia), 
 [Chris Markiewicz (GIFTI)](https://github.com/effigies)\
-**Description of project**: We want to put our preprocessed volumen space data on to the HCP surface template. The goal is to have the whole workflow in Python. Due to the lack of high level surfacebased tools, we are also looking into solotuons to GIFTI/CIFTI file IO and visualisation. The future goal is to provide more user-friendly tools to work with surface data in Python!
+**Description of project**: We want to put our preprocessed volume space data on to the HCP surface template. The goal is to have the whole workflow in Python. Due to the lack of high level surfacebased tools, we are also looking into solotuons to GIFTI/CIFTI file IO and visualisation. The future goal is to provide more user-friendly tools to work with surface data in Python!\
 **How to get involved**: You discuss the new GIFTI API under issues or help Gia withe the python workflow. 
