@@ -71,8 +71,13 @@ When adding a new project to the listing, please copy and paste the template bel
 **Description of project**: Use activation maps of four different tasks from various studies obtained through [Brainmap](http://brainmap.org/), and [Neurosynth](http://neurosynth.org/) and train a classifier to predict the task from an activation map.\
 **How to get involved**: We look forward to scaling this project to different tasks, and ideally towards more general applications.
 
-### TractFunc
+### MRIQCeption
+**Project url(s)**: [github repo](https://github.com/elizabethbeard/mriqception)
+**Contributors** (in alphabetical order of last names):[Elizabeth Beard](https://github.com/elizabethbeard/), [Stephanie DeCross](https://github.com/sdecross), [Damion Demeter](https://github.com/iamdamion), [Chris Foulon](https://github.com/chrisfoulon), [Sofia Fernandez-Lozano](https://github.com/soffiafdz),  [Helena Gellersen](https://github.com/hgellersen), [Ayelet Gertovski](https://github.com/ayeletger), [Estee Rubien-Thomas](https://github.com/ear55), [Saren Seeley](https://github.com/sarenseeley), [Catherine Walsh](https://github.com/crewalsh)
+**Description of project**: Provide context for the image quality metrics (IQMs) shown in the MRIQC group reports, by showing the distribution of IQMs for your data plotted relative to a larger set of anonymized IQMs pulled from the web API.
+**How to get involved**: We're looking forward to expanding this project, see our [contributing page](https://github.com/elizabethbeard/mriqception/blob/master/CONTRIBUTING.md) for more info on how to contribute.
 
+### TractFunc
 **Project url(s)**: https://github.com/DanNBullock/NeuroAnatParse \
 **Contributors**: Daniel Bullock, Johnathan Avery\
 **Description of project**: TractFunc is an initial attempt to probe the (potential) functional roles of white matter tracts.  Repo also includes code for text corpus parsing specific to white-matter anatomy literature\
