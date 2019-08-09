@@ -17,3 +17,8 @@ When adding a new project to the listing, please copy and paste the template bel
 
 ## Projects
 
+**Name**: deGANerate\
+**Project url(s)**: [neurohack_dl_gan](https://github.com/jeffreydurieux/neurohack_dl_gan)\
+**Contributors**: [Meltem Atay](https://github.com/meltemiatay), [Bastian David](https://github.com/bastiandavid), [Jeffrey Durieux](https://github.com/jeffreydurieux), [Alberto Lazari](https://github.com/lazaral), [Anna Truzzi](https://github.com/AnnaTruzzi), [Benjamin Wade](https://github.com/bscwade), [Suniyya A. Waraich](https://github.com/suniyya)\
+**Description of project**: We are working on classifying a person's age group from an MRI scan, using deep learning techniques. At the same time, we are training a GAN that takes in young brains and makes them look old. 🧠\
+**How to get involved**: Say hi! 👋 Leave a note.
