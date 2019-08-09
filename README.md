@@ -18,6 +18,12 @@ When adding a new project to the listing, please copy and paste the template bel
 
 ## Projects
 
+### BrainViz
+**Project url(s)**: https://github.com/matanmazor/BrainViz\
+**Contributors**: [Anna Jafarpour](https://github.com/annaja), [Matan Mazor] (https://github.com/matanmazor), [Liberty Hamilton](https://github.com/libertyh), \
+**Description of project**: With BrainViz we can visualize neural activity in selected ECOG contacts.\
+**How to get involved**: Please get in touch with one of the contributors.
+
 ### Neurohackmap
 
 **Project url(s)**: https://github.com/g14r/neurohackmap \
@@ -42,11 +48,11 @@ When adding a new project to the listing, please copy and paste the template bel
 **How to get involved**: You discuss the new GIFTI API under issues or help Gia withe the python workflow. 
 
 ### Neuropythy for Dev
-**Project url(s)**: [github repo](http://github.com/mcmahonmc/neuropythy-for-dev)\
+**Project url(s)**: [Neuropythy for Dev GitHub Repo](http://github.com/mcmahonmc/neuropythy-for-dev)\
 **Contributors**: [Maya Rosen](https://github.com/mayalrosen), [Kendra Seaman](https://github.com/klsea), [Aarti Nair](https://github.com/aartinair11), [Megan McMahon](https://github.com/mcmahonmc), [Leehyun Yoon](https://github.com/ehyun1990)\
 **Description of project**: Use [neuropythy](https://github.com/noahbenson/neuropythy) to visualize developmental changes in brain structure in participants from the [HCP Lifespan Pilot Study.](https://www.humanconnectome.org/lifespan-studies)\
 **Goals**: 1) Access and download HCP Lifespan Pilot Data, 2) Run HCP preprocessing pipelines using a docker container on AWS, 3) Use neuropythy to retrieve and visualize age-related differences in structural properties like cortical thickness.\
-**How to get involved**: Suggestions for other types of structural analysis (gyrification, TI/T2 differences) and functional analysis (resting state, tasks) are welcome. We look forward to analyzing the HCP-D and HCP-A datasets in the near future!\
+**How to get involved**: Suggestions for other types of structural analysis (gyrification, TI/T2 differences) and functional analysis (resting state, tasks) are welcome. We look forward to analyzing the HCP-D and HCP-A datasets in the near future!
 
 ### Pliers annotations (Neuroscout)
 **Project url(s)**: [natstim_neurohack](https://github.com/jacobtfisher/natstim_neurohack19)\
@@ -64,6 +70,25 @@ When adding a new project to the listing, please copy and paste the template bel
 **Contributors** (in alphabetical order of last names): [Katie Bottenhorn](https://github.com/62442katieb), [Bharath Chandra Talluri](https://github.com/BharathTalluri), [Julio A Yanes](https://github.com/Julio-A-Yanes)\
 **Description of project**: Use activation maps of four different tasks from various studies obtained through [Brainmap](http://brainmap.org/), and [Neurosynth](http://neurosynth.org/) and train a classifier to predict the task from an activation map.\
 **How to get involved**: We look forward to scaling this project to different tasks, and ideally towards more general applications.
+
+### MRIQCeption
+**Project url(s)**: [github repo](https://github.com/elizabethbeard/mriqception)
+**Contributors** (in alphabetical order of last names):[Elizabeth Beard](https://github.com/elizabethbeard/), [Stephanie DeCross](https://github.com/sdecross), [Damion Demeter](https://github.com/iamdamion), [Chris Foulon](https://github.com/chrisfoulon), [Sofia Fernandez-Lozano](https://github.com/soffiafdz),  [Helena Gellersen](https://github.com/hgellersen), [Ayelet Gertovski](https://github.com/ayeletger), [Estee Rubien-Thomas](https://github.com/ear55), [Saren Seeley](https://github.com/sarenseeley), [Catherine Walsh](https://github.com/crewalsh)
+**Description of project**: Provide context for the image quality metrics (IQMs) shown in the MRIQC group reports, by showing the distribution of IQMs for your data plotted relative to a larger set of anonymized IQMs pulled from the web API.
+**How to get involved**: We're looking forward to expanding this project, see our [contributing page](https://github.com/elizabethbeard/mriqception/blob/master/CONTRIBUTING.md) for more info on how to contribute.
+
+### TractFunc
+**Project url(s)**: https://github.com/DanNBullock/NeuroAnatParse \
+**Contributors**: Daniel Bullock, Johnathan Avery\
+**Description of project**: TractFunc is an initial attempt to probe the (potential) functional roles of white matter tracts.  Repo also includes code for text corpus parsing specific to white-matter anatomy literature\
+**How to get involved**: Join in the project?
+
+### Deep-Source
+**Project url(s)**: [github repo](https://github.com/martinagvilas/deep-source)\
+**Contributors** (in alphabetical order of last names): [Azeez Adebimpe](https://github.com/a3sha2), [Ryan Timms](https://github.com/RCTimms), [Martina G. Vilas](https://github.com/martinagvilas)\
+**Description of project**: We will simulate MEG source data with deep sources activations (e.g. hippocampal activity) to estimate which source reconstruction method is more efficient in these cases. For a detailed overview of our project, see our [project-outline](https://github.com/martinagvilas/deep-source/blob/master/project_outline.ipynb).\
+**How to get involved**: You can find the next steps of our project in our [README](https://github.com/martinagvilas/deep-source). You can also scroll around our [jupyter-notebooks](https://github.com/martinagvilas/deep-source/tree/master/notebooks) and add/change anything in them by submitting a pull request.
+
 
 ### PyCortexEdu
 **Project url(s)**: [PyCortexEdu GitHub repo](https://github.com/PaulScotti/PyCortexEdu)\
