@@ -70,3 +70,9 @@ When adding a new project to the listing, please copy and paste the template bel
 **Contributors** (in alphabetical order of last names): [Katie Bottenhorn](https://github.com/62442katieb), [Bharath Chandra Talluri](https://github.com/BharathTalluri), [Julio A Yanes](https://github.com/Julio-A-Yanes)\
 **Description of project**: Use activation maps of four different tasks from various studies obtained through [Brainmap](http://brainmap.org/), and [Neurosynth](http://neurosynth.org/) and train a classifier to predict the task from an activation map.\
 **How to get involved**: We look forward to scaling this project to different tasks, and ideally towards more general applications.
+
+### PyCortexEdu
+**Project url(s)**: [PyCortexEdu GitHub repo](https://github.com/PaulScotti/PyCortexEdu)\
+**Contributors**: [list of people involved], [Paul Scotti](https://github.com/PaulScotti), [Arman Kulkarni](https://github.com/kiacan), [Matan Mazor](https://github.com/matanmazor), [Eduard Klapwijk](https://github.com/eduardklap), [Alex Huth](https://github.com/alexhuth)\
+**Description of project**: In-browser 3D brain visualization of different brain atlases, parcellations and associated terms and variance components of the neuroimaging literature from [Neurosynth](http://neurosynth.org). This can be used as educational resource and potentially for researchers to evaluate functional and structural probabilities of selected brain regions. The [PyCortex](https://github.com/gallantlab/pycortex) software library is used for visualisation.\
+**How to get involved**: Click around that brain and send us some pull requests!
