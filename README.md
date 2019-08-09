@@ -19,8 +19,8 @@ When adding a new project to the listing, please copy and paste the template bel
 ## Projects
 
 ### BrainViz
-**Project url(s)**: https://github.com/matanmazor/BrainViz\
-**Contributors**: [Anna Jafarpour](https://github.com/annaja), [Matan Mazor] (https://github.com/matanmazor), [Liberty Hamilton](https://github.com/libertyh), \
+**Project url(s)**: https://github.com/matanmazor/BrainViz \
+**Contributors**: [Anna Jafarpour](https://github.com/annaja), [Matan Mazor](https://github.com/matanmazor), [Liberty Hamilton](https://github.com/libertyh). \
 **Description of project**: With BrainViz we can visualize neural activity in selected ECOG contacts.\
 **How to get involved**: Please get in touch with one of the contributors.
 
@@ -49,7 +49,7 @@ When adding a new project to the listing, please copy and paste the template bel
 
 ### Neuropythy for Dev
 **Project url(s)**: [Neuropythy for Dev GitHub Repo](http://github.com/mcmahonmc/neuropythy-for-dev)\
-**Contributors**: [Maya Rosen](https://github.com/mayalrosen), [Kendra Seaman](https://github.com/klsea), [Aarti Nair](https://github.com/aartinair11), [Megan McMahon](https://github.com/mcmahonmc), [Leehyun Yoon](https://github.com/ehyun1990)\
+**Contributors**: [Maya Rosen](https://github.com/mayalrosen), [Kendra Seaman](https://github.com/klsea), [Aarti Nair](https://github.com/aartinair11), [Megan McMahon](https://github.com/mcmahonmc), [Leehyun Yoon](https://github.com/ehyun1990), [Noah Benson](https://github.com/noahbenson)\
 **Description of project**: Use [neuropythy](https://github.com/noahbenson/neuropythy) to visualize developmental changes in brain structure in participants from the [HCP Lifespan Pilot Study.](https://www.humanconnectome.org/lifespan-studies)\
 **Goals**: 1) Access and download HCP Lifespan Pilot Data, 2) Run HCP preprocessing pipelines using a docker container on AWS, 3) Use neuropythy to retrieve and visualize age-related differences in structural properties like cortical thickness.\
 **How to get involved**: Suggestions for other types of structural analysis (gyrification, TI/T2 differences) and functional analysis (resting state, tasks) are welcome. We look forward to analyzing the HCP-D and HCP-A datasets in the near future!
@@ -72,10 +72,10 @@ When adding a new project to the listing, please copy and paste the template bel
 **How to get involved**: We look forward to scaling this project to different tasks, and ideally towards more general applications.
 
 ### MRIQCeption
-**Project url(s)**: [github repo](https://github.com/elizabethbeard/mriqception)
-**Contributors** (in alphabetical order of last names):[Elizabeth Beard](https://github.com/elizabethbeard/), [Stephanie DeCross](https://github.com/sdecross), [Damion Demeter](https://github.com/iamdamion), [Chris Foulon](https://github.com/chrisfoulon), [Sofia Fernandez-Lozano](https://github.com/soffiafdz),  [Helena Gellersen](https://github.com/hgellersen), [Ayelet Gertovski](https://github.com/ayeletger), [Estee Rubien-Thomas](https://github.com/ear55), [Saren Seeley](https://github.com/sarenseeley), [Catherine Walsh](https://github.com/crewalsh)
-**Description of project**: Provide context for the image quality metrics (IQMs) shown in the MRIQC group reports, by showing the distribution of IQMs for your data plotted relative to a larger set of anonymized IQMs pulled from the web API.
-**How to get involved**: We're looking forward to expanding this project, see our [contributing page](https://github.com/elizabethbeard/mriqception/blob/master/CONTRIBUTING.md) for more info on how to contribute.
+**Project url(s)**: [github repo](https://github.com/elizabethbeard/mriqception)\
+**Contributors** (in alphabetical order of last names):[Elizabeth Beard](https://github.com/elizabethbeard/), [Stephanie DeCross](https://github.com/sdecross), [Damion Demeter](https://github.com/iamdamion), [Chris Foulon](https://github.com/chrisfoulon), [Sofia Fernandez-Lozano](https://github.com/soffiafdz),  [Helena Gellersen](https://github.com/hgellersen), [Ayelet Gertovski](https://github.com/ayeletger), [Estee Rubien-Thomas](https://github.com/ear55), [Saren Seeley](https://github.com/sarenseeley), [Catherine Walsh](https://github.com/crewalsh)\
+**Description of project**: Provide context for the image quality metrics (IQMs) shown in the MRIQC group reports, by showing the distribution of IQMs for your data plotted relative to a larger set of anonymized IQMs pulled from the web API.\
+**How to get involved**: We're looking forward to expanding this project, see our [contributing page](https://github.com/elizabethbeard/mriqception/blob/master/CONTRIBUTING.md) for more info on how to contribute.\
 
 ### TractFunc
 **Project url(s)**: https://github.com/DanNBullock/NeuroAnatParse \
@@ -95,3 +95,17 @@ When adding a new project to the listing, please copy and paste the template bel
 **Contributors**: [Paul Scotti](https://github.com/PaulScotti), [Arman Kulkarni](https://github.com/kiacan), [Matan Mazor](https://github.com/matanmazor), [Eduard Klapwijk](https://github.com/eduardklap), [Alex Huth](https://github.com/alexhuth)\
 **Description of project**: In-browser 3D brain visualization of different brain atlases, parcellations and associated terms and variance components of the neuroimaging literature from [Neurosynth](http://neurosynth.org). This can be used as educational resource and potentially for researchers to evaluate functional and structural probabilities of selected brain regions. The [PyCortex](https://github.com/gallantlab/pycortex) software library is used for visualisation.\
 **How to get involved**: Click around that brain and send us some pull requests!
+
+
+### Psychiatric Phenotyping
+**Project url(s)**: [gitHub repo](https://github.com/GersonGuercio/hcp_psychiatric_phenotyping)\
+**Contributors**: [Carol Jew](https://github.com/caroljew), [Gerson Guercio](https://github.com/GersonGuercio), [Lindsay Oliver](https://github.com/loliver4), [Sarah Lichenstein](https://github.com/sarlich), [Teddy Turesky](https://github.com/tkt3)\
+**Description of project**: We are attempting to predict substance use using behavioral metrics from the HCP data with machine learning models. Many measures relate to substance use, but there’s little data available to guide the development of test batteries. The goal is to minimize patient burden without sacrificing predictive accuracy.\
+**How to get involved**: Feel free to get in touch with one of the contributors or send us pull requests.
+
+### TMS-DTI bridge
+**Project url(s)**: https://github.com/KulikovaSofya/BrainStim \
+**Contributors**: [Sofya Kulikova](https://github.com/KulikovaSofya), Daniel Bullock \
+**Description of project**: With this python script you can estimate effects of TMS for a particular white matter fiber reconstructed from diffusion MRI data. Input data: T1-w image, FA map, reconstructed fibers in trk .format, estimated e-field in a mesh format. Output: estsimated stimulations effects at each point of the provided fibers \
+**How to get involved**: There is a number of points that should be improve including 1) building a Docker container for this project; 2) improving registration between TMS and diffusion MRI; 3) Adding a function that would run e-field calculations within a program (to calculate e-field in place and not to take it as an input); 4) making things work faster (yes, it's very slow now); 5) still problems with visualization. Please, feel free to contact if you would like to contribute to this project.
+
