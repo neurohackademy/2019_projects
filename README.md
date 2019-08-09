@@ -32,12 +32,19 @@ When adding a new project to the listing, please copy and paste the template bel
 **Description of project**: We are working on classifying a person's age group from an MRI scan, using deep learning techniques. At the same time, we are training a GAN that takes in young brains and makes them look old. 🧠\
 **How to get involved**: Say hi! 👋 Leave a note.
 
-
 ### Volume to HCP CIFTI
 **Project url(s)**: [Volume to HCP surface](https://github.com/htwangtw/hcp-surface-format), 
 [GIFTI API proposal](https://github.com/nipy/nibabel/issues/789)\
 **Contributors**: [Hao-Ting Wang (HCP, visualisation, GIFTI)](https://github.com/htwangtw), 
 [Gia H Ngo (HCP, visualisation)](https://github.com/ngohgia), 
 [Chris Markiewicz (GIFTI)](https://github.com/effigies)\
-**Description of project**: We want to put our preprocessed volume space data on to the HCP surface template. The goal is to have the whole workflow in Python. Due to the lack of high-level surface-based tools, we are also looking into solutions to GIFTI/CIFTI file IO and visualisation. The future goal is to provide more user-friendly tools to work with surface data in Python!\
+**Description of project**: We want to put our preprocessed volumen space data on to the HCP surface template. The goal is to have the whole workflow in Python. Due to the lack of high level surfacebased tools, we are also looking into solotuons to GIFTI/CIFTI file IO and visualisation. The future goal is to provide more user-friendly tools to work with surface data in Python!
 **How to get involved**: You discuss the new GIFTI API under issues or help Gia withe the python workflow. 
+
+### Neuropythy for Dev
+**Project url(s)**: http://github.com/mcmahonmc/neuropythy-for-dev
+**Contributors**: [Maya Rosen] (https://github.com/mayalrosen), [Kendra Seaman] (https://github.com/klsea), [Aarti Nair] (https://github.com/aartinair11),[Megan McMahon](https://github.com/mcmahonmc), [Leehyun Yoon] (https://github.com/ehyun1990)
+**Description of project**: Use [neuropythy](https://github.com/noahbenson/neuropythy) to visualize developmental changes in brain structure in participants from the [HCP Lifespan Pilot Study.](https://www.humanconnectome.org/lifespan-studies)
+Goals: 1) Access and download HCP Lifespan Pilot Data, 2) Run HCP preprocessing pipelines using a docker container on AWS, 3) Use neuropythy to retrieve and visualize age-related differences in structural properties like cortical thickness.
+**How to get involved**: Suggestions for other types of structural analysis (gyrification, TI/T2 differences) and functional analysis (resting state, tasks) are welcome. We look forward to analyzing the HCP-D and HCP-A datasets in the near future!
+
